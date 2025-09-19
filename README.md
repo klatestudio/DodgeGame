@@ -7,6 +7,7 @@ A small experimental project to practice Unity and GitHub workflow.
 ## 🎮 Play
 Download the latest 
 Windows build inside.
+[⬇️ DodgeGame.zip](https://github.com/klatestudio/DodgeGame/releases/latest/download/DodgeGame.zip)
 
 ## ✨ Features
 - Random obstacles
@@ -36,15 +37,7 @@ Scripts I wrote and experimented with:
 
 Key Unity APIs used: `MonoBehaviour`, `OnCollisionEnter`, `OnTriggerEnter`, `Time`, `Vector3.MoveTowards`, `MeshRenderer`, `Rigidbody`, and basic Input axes.
 
-
-  <img src="screenshots/gameplay2.png" width="600">
 </p>
-
-## 🕹️ Download
-[⬇️ DodgeGame.zip](https://github.com/klatestudio/DodgeGame/releases/latest/download/DodgeGame.zip)
-
-
-
 
 ## 🛠️ Built With
 - Unity 2022
